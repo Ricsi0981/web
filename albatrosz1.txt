@@ -1,0 +1,29 @@
+Készítsen weblapokat a viharmadarak bemutatására a következ leírás szerint! A feladat
+megoldásához szükséges a viharmadarak.txt, az albatrosz.txt állomány és a következ
+képek: alba1.jpg, alba2.jpg. A megoldás során a viharmadarak.html és az
+albatrosz.html állomány elkészítése a feladat.
+1. Hozzon létre egy weblapot viharmadarak.html néven!
+2. Az oldal háttérszíne lightskyblue (#87CEFA kódú szín) és a szöveg színe darkblue
+(#00008B kódú szín).
+3. A cím Viharmadár-félék (Procellariidae) egyes szint címsor. A böngész keretén megjelen
+cím szövege is ez.
+4. Az oldal szövegét a viharmadarak.txt állományból illessze be!
+5. A szöveg legyen sorkizárt elrendezés !
+6. Az ismertet után gépelje be a forrás megjelölését: Forrás: Rózsa Lajos - Madarak! Ezt a
+bekezdést igazítsa jobbra!
+7. A szövegtörzsben található vándoralbatrosz szöveget alakítsa linkké, és az mutasson az
+elkészítend másik állományra (albatrosz.html)!
+8. Készítse el az albatrosz.html állományt! Az oldal háttérszíne az el z oldalhoz hasonlóan
+lightskyblue (#87CEFA kódú szín) és a szöveg színe darkblue (#00008B kódú
+szín).
+9. Az oldal váza egy táblázat. A táblázat 90% széles, kerete nincs. A táblázatnak két sora
+legyen! Az els sorban két cella legyen, a másodikban pedig egy! Ennek a cellának a szélessége
+a felette lev kett együttes szélességével egyezzen meg!
+10. A táblázat els sorában helyezze el a címet és a képet egymás mellé a két cellába!
+11. A cím (Vándoralbatrosz) egyes szint címsor és balra igazított az els cellában. A böngész
+keretén megjelen cím szövege is ez.
+12. A jobb oldali cellába, jobbra igazítva, helyezze el az alba1.jpg képet!
+13. A táblázat második sorában található cella szövege az albatrosz.txt állományban
+található. Ezt tegye sorkizárttá!
+14. Ebbe a cellába helyezze el az alba2.jpg képet a mintának megfelel en!
+15. A forrás megjelölését tartalmazó bekezdést igazítsa jobbra! 
